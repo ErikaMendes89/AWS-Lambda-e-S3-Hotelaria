@@ -26,10 +26,7 @@ O fluxo automatizado funciona da seguinte forma:
 7. Esse Lambda gera um **relatório consolidado** e envia para o portal de gestão via outro bucket S3  
 8. Gestores recebem notificação com link do relatório
 
-🖼️ **Diagrama do fluxo automatizado**  
-*(imagem em `/images` ou abaixo se seu GitHub permitir visualizar)*
 
-![Diagrama AWS Lambda + S3 – Hotel](./images/lambda_s3_hotel_automation.jpg)
 
 ---
 
@@ -48,6 +45,4 @@ O fluxo automatizado funciona da seguinte forma:
 ![FridayThe13thJasonGIF](https://github.com/user-attachments/assets/171ba386-208e-48b2-a914-dcf6bf63a1fc)
 
 
-
-## 📂 Estrutura do Repositório
 
